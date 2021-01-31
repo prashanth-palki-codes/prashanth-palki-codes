@@ -16,6 +16,10 @@
 <img align="left" src="https://img.icons8.com/color/48/000000/html-5.png"/>
 
 
+
+<br>
+
+
 <h2>📊 My GitHub Analytics</h2>
     <a href="https://github.com/prashanthpalki">
     <img src="https://github-readme-stats.vercel.app/api?username=prashanthpalki&show_icons=true&theme=merko&locale=en" alt="github analytics" height="150em"/>
@@ -23,6 +27,7 @@
     </a>
 
 <br>
+
 
 <h2>🤝 Connect with me</h2>
     <a href="mailto:prashanthpalki@gmail.com" style="height:15px;width:15px" target="_blank">
