@@ -2,18 +2,16 @@
 
 <h3>⚡ "Technology is best when it brings people together."</h3>
 
-<br>
 
 <h3> <img src="https://img.icons8.com/fluent/35/000000/checked-user-male.png"/> About :</h3>
     <p>👨🏻‍💻 Aspiring FullStack developer</p>
     <p>🎓 Bachelor's degree in Computer Science</p>
     <p>🤩 I love design, technology & travel</p>
 
-<br>
 
 
 <h3>🛠️ Languages, Technologies and Tools :</h3>
-<img align="left" src="https://img.icons8.com/officexs/100/000000/react.png"/>
+<img align="left" src="https://img.icons8.com/officexs/48/000000/react.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/html-5.png"/>
 <i align="left" class="fab fa-css3-alt"></i>
