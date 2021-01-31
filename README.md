@@ -11,16 +11,16 @@
 
 
 <h3>🛠️ Languages, Technologies and Tools :</h3>
-<img align="left" src="https://img.icons8.com/officexs/48/000000/react.png"/>
-<img align="left" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/html-5.png"/>
 <i align="left" class="fab fa-css3-alt"></i>
 <img align="left" src="https://img.icons8.com/color/48/000000/javascript.png"/>
+<img align="left" src="https://img.icons8.com/officexs/48/000000/react.png"/>
+<img align="left" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
 <img align="left" src="java.png">
 <img align="left" src="https://img.icons8.com/color/48/000000/python.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-<img align="left" src="sql.png">
+<img align="left" src="sqldb.png">
 <img align="left" src="https://img.icons8.com/fluent/48/000000/github.png"/>
 <img align="left" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/>
 
