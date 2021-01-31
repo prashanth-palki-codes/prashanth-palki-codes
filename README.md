@@ -11,21 +11,21 @@
 
 
 <h3>🛠️ Languages, Technologies and Tools :</h3>
-<img  src="https://img.icons8.com/color/48/000000/html-5.png"/>
-<img  src="https://img.icons8.com/color/48/000000/css3.png"/>
-<img  src="https://img.icons8.com/color/48/000000/javascript.png"/>
-<img  src="https://img.icons8.com/officexs/48/000000/react.png"/>
-<img  src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-<img  src="https://img.icons8.com/color/48/000000/c-programming.png"/>
-<img  src="java.png">
-<img  src="https://img.icons8.com/color/48/000000/python.png"/>
-<img  src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-<img  src="sqldb.png">
-<img  src="https://img.icons8.com/fluent/48/000000/github.png"/>
-<img  src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/>
+<img align="left" src="https://img.icons8.com/color/48/000000/html-5.png"/>
+<img align="left"  src="https://img.icons8.com/color/48/000000/css3.png"/>
+<img align="left"  src="https://img.icons8.com/color/48/000000/javascript.png"/>
+<img align="left"  src="https://img.icons8.com/officexs/48/000000/react.png"/>
+<img align="left"  src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+<img align="left"  src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+<img align="left"  src="java.png">
+<img align="left" src="https://img.icons8.com/color/48/000000/python.png"/>
+<img align="left"  src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+<img align="left"  src="sqldb.png">
+<img align="left"  src="https://img.icons8.com/fluent/48/000000/github.png"/>
+<img align="left"  src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/>
 
 
-<br><br>
+<br>
 
 
 <h3>📊 My GitHub Analytics</h3>
