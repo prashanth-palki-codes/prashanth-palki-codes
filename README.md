@@ -4,7 +4,7 @@
 
 
 <h3> <img src="https://img.icons8.com/fluent/22/000000/checked-user-male.png"/> About :</h3>
--  &nbsp; 👨🏻‍💻 Aspiring FullStack developer.<br>
+-  &nbsp; 👨🏻‍💻 FullStack developer.<br>
 -  &nbsp; 🎓 Bachelor's degree in Computer Science.<br>
 -  &nbsp; 🤩 I love design, technology & travel.<br>
 
