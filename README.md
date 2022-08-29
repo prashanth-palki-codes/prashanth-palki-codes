@@ -1,4 +1,4 @@
-<h1> <img src="hi.gif" height="30px" width="36px"  alt="hi emoji"/> Hey there! I'm Prashanth Palki</h1>
+<h1> <img src="hi.gif" height="30px" width="36px"  alt="hi emoji"/> Hey there! Prashanth Palki here</h1>
 
 <h2>⚡ "Technology is best when it brings people together."</h2>
 
