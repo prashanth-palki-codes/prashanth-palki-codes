@@ -28,9 +28,9 @@
 
 
 <h3>📊 My GitHub Analytics</h3>
-    <a href="https://github.com/prashanthpalki">
-    <img src="https://github-readme-stats.vercel.app/api?username=prashanthpalki&show_icons=true&theme=merko&locale=en" alt="github analytics" height="150em"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prashanthpalki&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="github languages" height="150em"/>
+    <a href="https://github.com/prashanth-palki-codes">
+    <img src="https://github-readme-stats.vercel.app/api?username=prashanth-palki-codes&show_icons=true&theme=merko&locale=en" alt="github analytics" height="150em"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prashanth-palki-codes&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="github languages" height="150em"/>
     </a>
 
 <br>
